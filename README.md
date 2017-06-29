@@ -12,7 +12,7 @@ In order to parse out field values, item names must be set up in the following m
 ```name##FieldName1:FieldValue2,FieldName2:FieldValue2##```
 * The start and ending ## is what the script uses to determine where the fields and their values being and end.
 * The field names should match the field's label within the itemType in Jama
-* Field values that are of picklist/multiselect options must be spelled exactly as it exists in Jama
+* Field values that are of picklist/multiselect type must be spelled exactly as they appear in Jama's Picklist options
 * A colon (:) should separate field names and the associating value
 * A comma (,) should be used to separate one field from the next
 * No spaces should be included between the starting and ending ##

@@ -1,1 +1,1 @@
-# Strip Field Values From Names
+# Strip Field Values from Names of Items
